@@ -2,13 +2,13 @@
 
 This is a small jQuery project from my time as a student at [SPICED Academy](https://spiced.academy/program/full-stack-web-development/) that makes use of resizable panes. It displays two overlain photographs of the same place taken from the same perspective but many years apart. By dragging a bar in the middle of the frame to the left or right, users can reveal or hide either photograph, creating an interactive before-and-after effect.
 
-## Demo (click to try yourself)
+## Demo (click to try for yourself)
 
 [![Cycling in Kreuzberg in 1985 vs. 2018](./pictures/cycling-in-kreuzberg.gif)](https://thenightshadefamily.github.io/before-and-after/)
 
-## Built With
+## Built with
 
-HTML, CSS, jQuery
+HTML, CSS, JavaScript (jQuery)
 
 ## Features
 
