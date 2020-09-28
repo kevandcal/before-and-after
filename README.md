@@ -4,7 +4,7 @@ This is a small jQuery project from my time as a student at [SPICED Academy](htt
 
 ## Demo (click to try for yourself)
 
-[![Cycling in Kreuzberg in 1985 vs. 2018](./pictures/cycling-in-kreuzberg.gif)](https://thenightshadefamily.github.io/before-and-after/)
+[![Cycling in Kreuzberg in 1985 vs. 2018](./pictures/cycling-in-kreuzberg.gif)](https://kevandcal.github.io/before-and-after/)
 
 ## Built with
 
